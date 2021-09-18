@@ -10,7 +10,8 @@ services:
   depends_on:
     - node-app
  node-app:
-  build: .  
+  build: .
+  image: wayfiding/node-app  
   environment:
     - PORT=3000
   depends_on:
