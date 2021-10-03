@@ -3,7 +3,7 @@
 ![home](./resources/dockerdevops.png) 
 
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.8.9a:Implementing Readme file.-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.9a:Implementing Readme file.-blue.svg?cacheSeconds=2592000" />
   <a href="Test" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
@@ -32,7 +32,7 @@ under development
 ```
 ## Technologies
 
-On this repository you will find many techonolgies been used.
+On this repository you will find many technologies been used.
 - JavaScript
 - Node
 - Express
@@ -41,7 +41,7 @@ On this repository you will find many techonolgies been used.
 - AWS or any cloud company
 
 ## Tools
-For this projects and studies were used this tools:
+For this projects and studies were used the following tools:
 
 - Visual Studio code
 - Insomnia
