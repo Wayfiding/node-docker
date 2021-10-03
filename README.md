@@ -13,6 +13,8 @@
  
 </p>
 
+[Portuguese :brazil:](README-ptbr.md)
+
 # About
 
 > This is a simple node-app to test with Docker and AWS cloud. This app was developed by freecodecamp, you can access the site with the video [here](https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/).

@@ -13,6 +13,8 @@
  
 </p>
 
+[English :us:](README.md)
+
 # Sobre
 
 > Este é um simples projeto em node no Docker que foi colocado na cloud. Este App foi desenvolvido pela freecodecamp, você pode acessar o site da video aula [aqui](https://www.freecodecamp.org/news/learn-docker-by-building-a-node-express-app/).
